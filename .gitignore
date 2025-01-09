@@ -40,3 +40,7 @@ Thumbs.db
 # Python test file
 #####################
 test.py
+
+# Python Virtual Environment
+####################
+.venv
